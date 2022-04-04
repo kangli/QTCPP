@@ -1,0 +1,9 @@
+D:/VistualStudioLearn/QTCPP/KangDock/build/CMakeFiles/INSTALL.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/CMakeFiles/ALL_BUILD.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/CMakeFiles/ZERO_CHECK.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/src/CMakeFiles/qtadvanceddocking.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/src/CMakeFiles/INSTALL.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/src/CMakeFiles/ALL_BUILD.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/app/CMakeFiles/KangDock.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/app/CMakeFiles/INSTALL.dir
+D:/VistualStudioLearn/QTCPP/KangDock/build/app/CMakeFiles/ALL_BUILD.dir

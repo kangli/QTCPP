@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\VistualStudioLearn\QTCPP\KangDock\build\CMakeFiles\5e135a8ffaf615252da17f46058b60fc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2688620B-C97A-38CF-B3EB-57AC840DB7B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

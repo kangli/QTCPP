@@ -1,0 +1,149 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 90,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 96,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "headers",
+			"destination" : "include",
+			"paths" : 
+			[
+				"src/ads_globals.h",
+				"src/DockAreaTabBar.h",
+				"src/DockAreaTitleBar.h",
+				"src/DockAreaTitleBar_p.h",
+				"src/DockAreaWidget.h",
+				"src/DockContainerWidget.h",
+				"src/DockManager.h",
+				"src/DockOverlay.h",
+				"src/DockSplitter.h",
+				"src/DockWidget.h",
+				"src/DockWidgetTab.h",
+				"src/DockingStateReader.h",
+				"src/DockFocusController.h",
+				"src/ElidingLabel.h",
+				"src/FloatingDockContainer.h",
+				"src/FloatingDragPreview.h",
+				"src/IconProvider.h",
+				"src/DockComponentsFactory.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "license",
+			"destination" : "license",
+			"paths" : 
+			[
+				"LICENSE",
+				"gnu-lgpl-v2.1.md"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"x64/lib/Release/qtadvanceddocking.lib"
+			],
+			"targetId" : "qtadvanceddocking::@145eef247bfb46b6828c",
+			"targetIndex" : 5,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"x64/bin/Release/qtadvanceddocking.dll"
+			],
+			"targetId" : "qtadvanceddocking::@145eef247bfb46b6828c",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtadvanceddocking",
+			"exportName" : "adsTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "qtadvanceddocking::@145eef247bfb46b6828c",
+					"index" : 5
+				}
+			],
+			"paths" : 
+			[
+				"src/CMakeFiles/Export/lib/cmake/qtadvanceddocking/adsTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/qtadvanceddocking",
+			"paths" : 
+			[
+				"src/qtadvanceddockingConfig.cmake",
+				"build/src/qtadvanceddockingConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}

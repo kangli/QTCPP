@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\app\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\app\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\app\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VistualStudioLearn\QTCPP\KangDock\build\CMakeFiles\48b4a661c13835633a99be96cd59387c\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\VistualStudioLearn\QTCPP\KangDock\app\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\app\mainwindow.ui" />
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\autouic_Debug.stamp" />
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\autouic_Release.stamp" />
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\build\app\KangDock_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2688620B-C97A-38CF-B3EB-57AC840DB7B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76C09E38-D882-3486-B951-8467505ED2F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2BDFF014-D934-3353-9EAD-CB4C4F24CCAA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

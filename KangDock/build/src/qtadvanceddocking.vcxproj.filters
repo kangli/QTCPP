@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\src\qtadvanceddocking_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\ads_globals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaTabBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaTitleBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockContainerWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockSplitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockWidgetTab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockingStateReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockFocusController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\ElidingLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\FloatingDockContainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\FloatingDragPreview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\IconProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockComponentsFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\src\qtadvanceddocking_autogen\EWIEGA46WW\qrc_ads.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\src\qtadvanceddocking_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\src\qtadvanceddocking_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VistualStudioLearn\QTCPP\KangDock\build\src\qtadvanceddocking_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\ads_globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaTabBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaTitleBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaTitleBar_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockAreaWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockContainerWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockOverlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockWidgetTab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockingStateReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockFocusController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\ElidingLabel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\FloatingDockContainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\FloatingDragPreview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\IconProvider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VistualStudioLearn\QTCPP\KangDock\src\DockComponentsFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VistualStudioLearn\QTCPP\KangDock\build\CMakeFiles\36347cf568941bb5cbe171aaac33e1a3\qrc_ads.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\VistualStudioLearn\QTCPP\KangDock\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\VistualStudioLearn\QTCPP\KangDock\src\ads.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2688620B-C97A-38CF-B3EB-57AC840DB7B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76C09E38-D882-3486-B951-8467505ED2F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2BDFF014-D934-3353-9EAD-CB4C4F24CCAA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
