@@ -38,5 +38,7 @@ private:
     MySortFilterProxyModel* proxyModel;
     FilterWidget* filterWidget;
     QAbstractItemModel *createMailModel(QObject *parent);
+    void opexcel();
+    bool requestPermission();
 };
 #endif // MAINWINDOW_H
